@@ -1,0 +1,27 @@
+body {
+    background-color: rgb(227, 247, 255);
+    font-size: 17px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: seagreen;
+}
+
+ul {
+    /* list-style-type: circle;
+    list-style-type: square; */
+    list-style-type: square;
+}
+
+table, th, td {
+    border: 1px solid white;
+    border-collapse: collapse;
+    padding: 7px;
+    background-color: rosybrown; /* cam, este es tu nuevo color favorito */
+    color: white;
+    margin-bottom: 15px;
+    text-align: left;
+}
+
+dl, dd {
+    margin-left: 15px;
+    border-left: 1px solid #cab1d4;
+}

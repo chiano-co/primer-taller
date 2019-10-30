@@ -1,0 +1,15 @@
+h3 {
+    color: palevioletred;
+    font-size: 75px;
+    font-weight: 100;
+    /* La lista larga de tipografías funciona para tener una fuente de "emergencia" que utilizar cuando un usuario tiene problemas con la primera fuente */
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+
+body {
+background-color: lightblue;
+background-image: url(https://wallpaperplay.com/walls/full/6/f/e/3065.jpg);
+background-size: cover;
+background-attachment: fixed;
+}
